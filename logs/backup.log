@@ -1,0 +1,11 @@
+=====================================
+Backup started at Fri Mar 27 20:37:27 IST 2026
+[ERROR] Invalid source directory
+=====================================
+Backup started at Sat Mar 28 01:17:37 IST 2026
+tar: Removing leading `/' from member names
+[SUCCESS] Backup completed at Sat Mar 28 01:18:15 IST 2026
+=====================================
+Backup started at Sat Mar 28 01:19:13 IST 2026
+tar: Removing leading `/' from member names
+[SUCCESS] Backup completed at Sat Mar 28 01:19:31 IST 2026
